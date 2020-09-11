@@ -9,7 +9,7 @@
     "build": "webpack --mode=production"
   },
   "bin": {
-    "projectBegin": "./bin/start.js"
+    "project-begin": "./bin/start.js"
   },
   "dependencies": {
     "@babel/core": "^7.11.6",
