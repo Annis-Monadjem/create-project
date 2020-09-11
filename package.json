@@ -1,7 +1,7 @@
 {
-  "name": "myCRA",
+  "name": "project-creator",
   "version": "1.0.0",
-  "description": "Don't use create-react-app: How you can set up your own reactjs boilerplate. By Nikhil Kumaran",
+  "description": "Adopted from: Don't use create-react-app: How you can set up your own reactjs boilerplate. By Nikhil Kumaran",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -9,7 +9,7 @@
     "build": "webpack --mode=production"
   },
   "bin": {
-    "templateWeback": "./bin/start.js"
+    "projectCreator": "./bin/start.js"
   },
   "dependencies": {
     "@babel/core": "^7.11.6",
